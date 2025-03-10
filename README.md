@@ -64,7 +64,7 @@ Set-Content -Path ".venv/Scripts/get-papers-list.bat" -Value '@python "%~dp0..\L
 🚀 How to Use the Project
 1️⃣ Clone the Repository
 If you're a third-party user, first clone the project:
-git clone https://github.com/Mukeshkummuru/backend-takehome.git
+git clone https://github.com/Mukeshkummuru/Research_fetcher.git
 cd backend-takehome
 
 
