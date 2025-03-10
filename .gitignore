@@ -8,3 +8,5 @@ poetry.lock
 
 .DS_Store  
 Thumbs.db  
+
+dist/

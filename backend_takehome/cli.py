@@ -1,4 +1,3 @@
-# cli.py
 import argparse
 from papers_fetcher.fetch import fetch_papers
 from papers_fetcher.utils import save_to_csv

@@ -10,7 +10,6 @@ This project fetches research papers from PubMed, filters them based on author a
 ✅ Fully set up with Poetry and Test PyPI
 
 📂 Folder Structure
-
 backend-takehome/
 │── backend_takehome/       # Main package folder
 │   │── __init__.py
