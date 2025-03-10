@@ -23,6 +23,15 @@ backend-takehome/
 │── README.md               # Project documentation
 
 
+*Libraries Used:
+    requests → To fetch data from the PubMed API
+    pandas → For handling and processing tabular data
+    lxml → To parse XML responses from PubMed
+    rich → For better command-line output formatting
+
+*How This LLM Helped Me:
+    I used ChatGPT to guide me through the entire project, from setting up the virtual environment and installing dependencies to fetching research papers via the PubMed API. It helped me debug issues, structure my project correctly, publish my package to Test PyPI, and create a CLI command for easy use. Additionally,error fixes, and optimized the code for best practices. 🚀
+
 🛠 How We Built It
 1️⃣ Set Up Python Virtual Environment
 We created a virtual environment to keep dependencies isolated:
